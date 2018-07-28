@@ -1,7 +1,7 @@
 import requests
 
 def __main__():
-   print("pizdec")
+    print("pizdec")
     print("yes")
-   print("no")
+    print("no")
     pass
