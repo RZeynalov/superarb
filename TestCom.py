@@ -5,4 +5,5 @@ def __main__():
     print("yes")
     print("no")
     print("dsds")
+    print("check")
     pass
